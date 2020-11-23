@@ -3,6 +3,6 @@
 mysqlservice: mysqld
 mysql_port: 3306
 dbuser: webapp
-dbname: ANSAP01
-upassword: Bond@007
-masterpassword: MySQL@007
+dbname: test
+upassword: blrk@001
+masterpassword: blrk@001
